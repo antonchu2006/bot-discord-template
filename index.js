@@ -28,7 +28,7 @@ const bot = new Discord.Client();
 
 const prefix = "!"
 // 
-bot.login("ODExMDcxNzc0Mjg4MjQ4ODMz.YCs3cw.UoctogG6sZsGz8DEcPm3yFE2U4w");
+bot.login("TOKEN");
 
 
 bot.on('ready', () => {
